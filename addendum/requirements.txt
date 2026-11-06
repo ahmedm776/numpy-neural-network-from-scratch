@@ -1,0 +1,6 @@
+tensorflow-cpu==2.21.0
+numpy
+scikit-learn
+pandas
+matplotlib
+pytest
