@@ -5,10 +5,10 @@ network implemented twice and compared: once from scratch in pure NumPy (forward
 propagation, backpropagation, softmax cross-entropy, gradient descent all written
 by hand) and once with Keras, on two datasets (Iris and MNIST).
 
-From the coursework archive of Ahmed Khalifa (DSAI253 Machine Learning).
-The team/solo context of the original submission is not recorded, so no
-sole-authorship claim is made for it. Packaged for portfolio publication from
-the preserved original notebook with AI-assistant help.
+Original DSAI253 Machine Learning coursework implemented by Ahmed Khalifa.
+Recovered, tested and packaged for portfolio publication from the preserved
+original notebook with AI-assistant help. Later fixes and evaluation additions
+are documented separately below and in the evaluation notes.
 
 ## Verified results (re-run end-to-end on Google Colab, 2026-11-04)
 
